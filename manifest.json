@@ -1,0 +1,14 @@
+{
+  "name": "Omnicamp"
+, "version": "0.0.1"
+, "description": "Autocomplete Basecamp resources in Omnibox"
+, "icons": {
+    "16":  "basecamp_16.png"
+  , "48":  "basecamp_48.png"
+  , "128": "basecamp_128.png" }
+, "homepage_url": "http://gergo.sulymosi.com/omnicamp"
+, "omnibox": { "keyword": "bc" }
+, "background_page": "background.html"
+, "permissions": [ "tabs", "*://*.basecamphq.com/" ]
+}
+

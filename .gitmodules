@@ -1,0 +1,3 @@
+[submodule "basecampjs"]
+	path = basecampjs
+	url = git@github.com:trekdemo/basecampjs.git
