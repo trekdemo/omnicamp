@@ -11,6 +11,12 @@ You can quickly access your projects, todos, and other stuff on [Basecamp](http:
 * Commit.
 * Send me a pull request. Bonus points for topic branches.
 
+# Roadmap
+
+* Search in projects
+* Search in todo lists
+* Search in milestones
+
 # License
 
 Copyright © 2011 Gergő Sulymosi. See LICENSE for details.
