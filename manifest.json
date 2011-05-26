@@ -9,6 +9,7 @@
 , "homepage_url": "http://gergo.sulymosi.com/omnicamp"
 , "omnibox": { "keyword": "bc" }
 , "background_page": "background.html"
+, "options_page": "options.html"
 , "permissions": [ "tabs", "*://*.basecamphq.com/" ]
 }
 
